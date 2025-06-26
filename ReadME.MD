@@ -2,6 +2,9 @@
 
 Velvox is a powerful Discord bot focused on **raid protection**, **audit logging**, and **server security** — built to help server owners secure their communities with ease.
 
+[Invite the bot now!](https://discord.com/oauth2/authorize?client_id=1387429800053837874).
+
+If you want to host it your self you can download the files above.
 
 ## ✨ Features
 
